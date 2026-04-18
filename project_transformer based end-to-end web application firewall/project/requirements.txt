@@ -1,0 +1,17 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+transformers==4.36.2
+torch==2.1.2
+onnx==1.15.0
+onnxruntime==1.16.3
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+redis==5.0.1
+aioredis==2.0.1
+python-dotenv==1.0.0
+scikit-learn==1.4.0
+numpy==1.26.3
+pandas==2.1.4
+httpx==0.26.0
+supabase==2.3.4
